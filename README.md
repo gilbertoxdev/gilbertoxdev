@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy Gilberto La Rosa, Ingeniero de Sistemas de profesión y Web Developer freelancer 
+
 <!--
 **gilbertoxdev/gilbertoxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
