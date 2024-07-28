@@ -20,11 +20,11 @@ Hola soy un joven Venezolano más esparcido por el mundo, actualmente viviendo e
 ╚█████╔╝╚█████╔╝██████╔╝██║░░██║██║░░░░░░░░██║░░░███████╗██║░░██║
 ░╚════╝░░╚════╝░╚═════╝░╚═╝░░╚═╝╚═╝░░░░░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝
 
-🌐 **Website:** [codafter.codes](https://codafter.codes/).
+🌐 **Website:** [codafter.codes](https://codafter.cl/).
 
 ## Contácteme:
 
-📧 **E-Mail:** [gilberto.larosa@codafter.codes](mailto:gilberto.larosa.codes).
+📧 **E-Mail:** [gilberto.larosa@codafter.codes](mailto:gilberto.larosa.cl).
 
 💀 **X / Twitter:** [@gilbertoxdev](https://twitter.com/gilbertoxdev).
 
