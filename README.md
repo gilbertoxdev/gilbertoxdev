@@ -28,7 +28,7 @@ Hello, I am a young Venezuelan who is spread out around the world, currently liv
 
 ## Contácteme:
 
-📧 **E-Mail:** [gilberto.larosa@codafter.codes](mailto:gilberto.larosa.cl).
+📧 **E-Mail:** [gilberto.larosa@codafter.cl](mailto:gilberto.larosa.cl).
 
 💀 **X / Twitter:** [@gilbertoxdev](https://twitter.com/gilbertoxdev).
 
