@@ -24,11 +24,11 @@ Hello, I am a young Venezuelan who is spread out around the world, currently liv
 ╚█████╔╝╚█████╔╝██████╔╝██║░░██║██║░░░░░░░░██║░░░███████╗██║░░██║
 ░╚════╝░░╚════╝░╚═════╝░╚═╝░░╚═╝╚═╝░░░░░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝
 
-🌐 **Website:** [codafter.cl](https://codafter.cl/).
+🌐 **Website:** [codafter.com](https://codafter.com/).
 
 ## Contácteme:
 
-📧 **E-Mail:** [gilberto.larosa@codafter.cl](mailto:gilberto.larosa.cl).
+📧 **E-Mail:** [gilberto.larosa@codafter.com](mailto:gilberto.larosa.com).
 
 💀 **X / Twitter:** [@gilbertoxdev](https://twitter.com/gilbertoxdev).
 
