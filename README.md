@@ -1,4 +1,4 @@
-# Gilberto La Rosa 👋 | Web Developer
+# 👋 Gilberto La Rosa | Ingeniero de Sistemas/Systems Engineer | Desarrollador Web/Web Developer
 
 Hola soy un joven Venezolano más esparcido por el mundo, actualmente viviendo en Santiago de Chile, padre de familia, esposo, Ingeniero de Sistemas de profesión y programador web de oficio, aunque en el desarrollo de mi carrera me ha tocado trabajar en distintas áreas de sector TI.
 
@@ -15,7 +15,7 @@ Hello, I am a young Venezuelan who is spread out around the world, currently liv
 
 🌐 **Website:** [gilberto-la-rosa.xyz](https://gilberto-la-rosa.xyz/).
 
-## Portafolio:
+## Portafolio/Portfolio:
 
 ░█████╗░░█████╗░██████╗░░█████╗░███████╗████████╗███████╗██████╗░
 ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
@@ -26,7 +26,7 @@ Hello, I am a young Venezuelan who is spread out around the world, currently liv
 
 🌐 **Website:** [codafter.com](https://codafter.com/).
 
-## Contácteme:
+## Contáctame/Contact me:
 
 📧 **E-Mail:** [gilberto.larosa@codafter.com](mailto:gilberto.larosa.com).
 
