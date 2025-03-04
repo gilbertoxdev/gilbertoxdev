@@ -13,7 +13,7 @@ Hello, I am a young Venezuelan who is spread out around the world, currently liv
 ┃╰┻━┣┫┣┫╰━╯┃╰━╯┃╰━━┫┃┃╰╮╱┃┃╱┃╰━╯┣╯╭╮╰┳╯╰╯┃╰━━╮╰╮╭╯
 ╰━━━┻━━┻━━━┻━━━┻━━━┻╯╰━╯╱╰╯╱╰━━━┻━╯╰━┻━━━┻━━━╯╱╰╯
 
-🌐 **Website:** [gilberto-la-rosa.xyz](https://gilberto-la-rosa.xyz/).
+🌐 **Website:** [gilbertox.dev](https://gilbertox.dev/).
 
 ## Portafolio/Portfolio:
 
@@ -28,7 +28,7 @@ Hello, I am a young Venezuelan who is spread out around the world, currently liv
 
 ## Contáctame/Contact me:
 
-📧 **E-Mail:** [gilberto.larosa@codafter.com](mailto:gilberto.larosa.com).
+📧 **E-Mail:** [gilberto.larosa@codafter.com](mailto:gilberto.larosa@codafter.com).
 
 💀 **X / Twitter:** [@gilbertoxdev](https://twitter.com/gilbertoxdev).
 
