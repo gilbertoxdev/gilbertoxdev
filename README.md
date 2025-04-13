@@ -1,6 +1,6 @@
 # 👋 Gilberto La Rosa | Ingeniero de Sistemas/Systems Engineer | Desarrollador Web/Web Developer
 
-Hola soy un joven Venezolano más esparcido por el mundo, actualmente viviendo en Santiago de Chile, padre de familia, esposo, Ingeniero de Sistemas de profesión y programador web de oficio, aunque en el desarrollo de mi carrera me ha tocado trabajar en distintas áreas de sector TI.
+Hola soy un joven(No tan joven, pero no tan viejo 😂) Venezolano más! esparcido por el mundo, actualmente viviendo en Santiago de Chile, padre de familia, esposo, Ingeniero de Sistemas de profesión y programador web de oficio, aunque en el desarrollo de mi carrera me ha tocado trabajar en distintas áreas de sector TI.
 
 ### English language
 
